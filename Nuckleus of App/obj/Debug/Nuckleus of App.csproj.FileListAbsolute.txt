@@ -1,0 +1,10 @@
+D:\Nuckleus of App\Nuckleus of App\obj\Debug\Nuckleus of App.csprojResolveAssemblyReference.cache
+D:\Nuckleus of App\Nuckleus of App\obj\Debug\Nuckleus_of_App.Properties.Resources.resources
+D:\Nuckleus of App\Nuckleus of App\obj\Debug\Nuckleus of App.csproj.GenerateResource.Cache
+D:\Nuckleus of App\Nuckleus of App\obj\Debug\Nuckleus of App.csproj.CoreCompileInputs.cache
+D:\Nuckleus of App\Nuckleus of App\bin\Debug\Nuckleus of App.exe.config
+D:\Nuckleus of App\Nuckleus of App\bin\Debug\Nuckleus of App.exe
+D:\Nuckleus of App\Nuckleus of App\bin\Debug\Nuckleus of App.pdb
+D:\Nuckleus of App\Nuckleus of App\obj\Debug\Nuckleus of App.exe
+D:\Nuckleus of App\Nuckleus of App\obj\Debug\Nuckleus of App.pdb
+D:\Nuckleus of App\Nuckleus of App\obj\Debug\Nuckleus_of_App.MainForm.resources
